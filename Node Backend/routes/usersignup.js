@@ -16,15 +16,17 @@ router.post('/login',function(req,res,next){
 });
 
 router.post('/', function(req, res, next) {
-  if (req.body.ID && req.body.password && req.body.type) {
+  if (req.body.ID && req.body.password && req.body.designation) {
   var userData = {
     ID: req.body.ID,
     password: req.body.password,
-    type: req.body.type
+    designation: req.body.designation,
+    firstName:req.body.firstName,
+    lastName:req.body.lastName
   }
   User.create(userData, function (err, user) {
     if (err) {
-      res.send('There was a problem adding info to the DB ')
+      res.send('There was a problem adding info to the DB ' +err)
     } else {
       res.send('Sign Up Done!!');
     }
