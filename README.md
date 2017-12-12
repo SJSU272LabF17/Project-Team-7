@@ -39,5 +39,5 @@ composer-rest-server
 Follow the documentation below for more information 
 https://hyperledger.github.io/composer/tutorials/developer-tutorial.html
 
-The working application can be access by using below url.
+The working application can be accessed by using below url.
 http://reviewnet.hopto.org
