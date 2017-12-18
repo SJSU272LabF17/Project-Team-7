@@ -15,7 +15,7 @@ Prior to this, there was no centralized and secured dataset maintaining these sm
 
 In our project Manager, Employee, HR and Team Lead are the participants that are taking part in read/write access for adding any type of employee record. At the same time employee has right to view his history and track record. We are also demonstrating the transaction history so that we have a clear picture as in who added the record, when and for whom. To have a quick glimpse of employee review history, we are running heavy analysis on existing json data and using react-chartjs-2 to show meaningful graphical charts.Thus, the company has enough data to to prove its case on the other hand employee has clear understanding for his termination hence it is less likely to file a lawsuit for wrong termination. 
 
-
+### Setup
 To run reviewnet service from your PC
 Download hyperledger composer runtime on your PC.
 Copy Hyperledger composer backend folder in generated fabric-tools folder
