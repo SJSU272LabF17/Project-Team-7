@@ -3,7 +3,7 @@
 # Protecting companies against wrongful termination lawsuits by their employees.
 
 
-#Concept and Working
+# Concept and Working
 
 Wrongful termination lawsuit are very common these days. After getting terminated many employees file wrong termination lawsuits against the companies primarily because of the easy availability of lawyers and supporting agencies and websites. However, the ground for filing a lawsuit is unclear many time.According to one survey, approximately 42000 cases were filed in 2016 under the category retaliation and only 86 were found to be solved and legitimate. Still, for the rest of the cases, the company has to bear all the legal expenses till the case is resolved. To save this extra financial overhead, we are proposing a new review system based on blockchain. From our study it was found that performance of the employee is not the only reason for which he/she may get terminated. There may be several other causes such as policy breach, taking too many long leaves, complaint due to bad behaviour with peers and even fake health issues.
 
