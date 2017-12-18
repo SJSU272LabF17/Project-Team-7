@@ -1,5 +1,5 @@
 # Project-Team-7
-# Employee Review BlockChain Network
+## Employee Review BlockChain Network
 **Protecting companies against wrongful termination lawsuits by their employees.**
 
 
@@ -9,6 +9,7 @@ Wrongful termination lawsuit are very common these days. After getting terminate
 
 Prior to this, there was no centralized and secured dataset maintaining these small yet relevant records. Moreover, even if the reason for termination was present in the record, employee lawyers would prove that the data was being modified and hence cannot be trusted.  Hence, in-order buildtrust we are using blockchain to keeping employee records. Blockchain is governed by hash function which depends on the hashing of the previous block. Initial block is called the genesis block which is created at the start of blockchain network. Blockchain adds data in the blockchain network on the basis of consensus i.e mutual agreement between it peers. At any point existing data cannot be modified or updated  due to the presence of strong hashing algorithm and consensus. To simplify and shorten the time of development we are using Hyperledger Composer framework which internally uses couchDB, NodeJS and yeoman to build our blockchain network and provide Rest API services can be integrated on any frontend platform. Express is used a backend along with MongoDB and CouchDB database and ReactJS and Redux as frontend framework.
 
+### Architecture
 ![architecture](https://user-images.githubusercontent.com/31717682/34090188-04ce2c7e-e36a-11e7-8b51-8ef801ce57c1.png)
 
 
