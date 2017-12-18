@@ -1,5 +1,7 @@
 # Project-Team-7
-This project is about protecting companies against wrongful termination lawsuits by their employees.
+# Employee Review BlockChain Network
+# Protecting companies against wrongful termination lawsuits by their employees.
+
 
 Concept and Working
 
